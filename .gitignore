@@ -1,0 +1,9 @@
+.env
+
+artist_dashboard.log
+
+__pycache__/
+
+.idea/
+
+.DS_Store
